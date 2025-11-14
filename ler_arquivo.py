@@ -1,6 +1,4 @@
-# programa_1.py
-# Lê um arquivo de log de tempos de execução e calcula a média e o desvio padrão
-
+# É necessário um logs.txt para rodar
 import math
 
 def calcular_estatisticas(arquivo):
